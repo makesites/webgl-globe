@@ -1,0 +1,32 @@
+{
+  "name": "webgl-globe",
+  "version": "0.1.4",
+  "description": "The **WebGL Globe** is an open platform for visualizing geographic information in WebGL enabled browsers.",
+  "author": "Google Data Arts Team",
+  "contributors": [
+    { "name": "Makis Tracend", "email": "makis.tracend@gmail.com" }
+  ],
+  "homepage": "http://www.chromeexperiments.com/globe", 
+  "keywords": ["webgl", "google", "globe"], 
+  "main": "./index.js",
+  "engines": {
+    "node": ">0.4.x"
+  },
+  "dependencies": {
+    "jade": ">0.13.x"
+  }, 
+  "repository": {
+    "type": "svn",
+    "url": "https://code.google.com/p/webgl-globe/"
+  },
+  "bugs": {
+    "url": "https://code.google.com/p/webgl-globe/issues/list"
+  }, 
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+
+}
