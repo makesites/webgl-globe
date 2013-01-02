@@ -1,7 +1,7 @@
 {
   "name": "webgl-globe",
   "version": "0.2.0",
-  "description": "Location-based resourcing of 3D map geometry - powering Earthmaps.org",
+  "description": "[WIP] Location-based resourcing of 3D map geometry - powering Earthmaps.org",
   "author": "Makesites.org",
   "contributors": [
     { "name": "Makis Tracend", "email": "makis.tracend@gmail.com" }
